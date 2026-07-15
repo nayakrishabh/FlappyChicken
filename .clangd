@@ -1,0 +1,6 @@
+CompileFlags:
+  Add:
+    - "-IG:/Projects/C++(SDL & OpenGL) Projects/vclib/include"
+    - "-IG:/Projects/C++(SDL & OpenGL) Projects/ResourceZips/SDL2_image-devel-2.8.8-VC/SDL2_image-2.8.8/include"
+    - "-std=c++17"
+    - "-D_DEBUG"

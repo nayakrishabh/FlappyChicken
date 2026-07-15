@@ -1,0 +1,28 @@
+# Build output
+build/
+out/
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+x64/
+Debug/
+Release/
+FlappyChicken/
+
+# IDE
+.idea/
+.vscode/
+
+# Object files
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.recipe
+*.log
