@@ -4,8 +4,6 @@
 using namespace std;
 
 
-double mass;
-
 static SDL_Rect drawRect(SDL_Renderer* renderer, int x, int y, int width, int height) {
 	SDL_Rect rect;
 	rect.x = x;
